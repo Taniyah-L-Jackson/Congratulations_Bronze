@@ -7,3 +7,4 @@ A Celebratory Webpage! (Bronze Edition)
 * Bronze-Styled gradient background
 
 ```Built with HTML & CSS```
+```For Moblie Users, Please Rotate Device```
