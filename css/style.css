@@ -60,7 +60,7 @@ body {
 .text {
     font-size: 80px;
     text-transform: uppercase;
-    line-height: 3;
+    line-height: 1; /*For GH*/
     color: #5e3a17;
     animation-name: fade-in;
     animation-duration: 3s;
