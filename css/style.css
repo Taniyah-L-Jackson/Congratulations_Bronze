@@ -58,9 +58,9 @@ body {
 }
 
 .text {
-    font-size: 80px;
+    font-size: 70px;
     text-transform: uppercase;
-    line-height: 1; /*For GH*/
+    line-height: 1.5;
     color: #5e3a17;
     animation-name: fade-in;
     animation-duration: 3s;
